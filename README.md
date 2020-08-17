@@ -27,7 +27,9 @@ Steps and Status of Project:
                            >Customizing our navbar : Completed
                            >Using chrome inspector to setup our navbar positions : Completed
                            >Using Chrome Color pallete to set up hover and text colors : Completed
+                           >Importing the fonts from the google fonts : Completed
                            >importing the font-awesome library : Completed
+                           >Adding Jumbotron from the bootstrap : Completed
                            >DOM Breakpoints and DOM Manipulations around the index.html ( after interaction setup with jQuery)
                            >Finalizing the thing with the Last Browser Checkout for Frontend ( after Breakpoints setup)
 ---------------------------------------------------------------------------------------------------------------------------------------------
