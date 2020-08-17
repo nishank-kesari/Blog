@@ -1,1 +1,43 @@
+a{color: black;}
+a:hover{
+	text-decoration: none;color: black;
+}
+ul{
+	padding: 0;
+}
+.navbar-brand{
+	font-family: 'Pacifico', cursive;
+}
+.nav-link{
+font-size: 0.8rem;
+color: #f8f9fa;
+font-family: 'Inconsolata', monospace;
+}
+#navbar-dropdown{
+	list-style: none;
+	width: inherit;
+	padding: 0;
+	margin-bottom: 0;
+}
+#profile-picture{
+	height: 30px;
+	width: 30px;
+	border: 1px solid white;
+}
 
+.dropdown-menu{
+	background-color: #f8f9fa
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.dropdown-item{
+
+ font-size: 1rem;
+ font-family: 'Inconsolata', monospace;
+}
+.dropdown-item:hover{
+ background-color: #e6e6e6;
+}
+.dropdown-divider{
+	background-color: inherit;
+}
