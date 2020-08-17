@@ -25,6 +25,8 @@ Steps and Status of Project:
                            >Adding the JS script ie. adding the index.js to the index.html - making index.html interactive ( after boilerplate and structuring of index.html ) : Completed
                            >Adding Navbar to the website imported from bootstrap : Completed
                            >Customizing our navbar : Completed
+                           >Using chrome inspector to setup our navbar positions : Completed
+                           >Using Chrome Color pallete to set up hover and text colors : Completed
                            >importing the font-awesome library : Completed
                            >DOM Breakpoints and DOM Manipulations around the index.html ( after interaction setup with jQuery)
                            >Finalizing the thing with the Last Browser Checkout for Frontend ( after Breakpoints setup)
