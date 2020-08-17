@@ -30,6 +30,7 @@ Steps and Status of Project:
                            >Importing the fonts from the google fonts : Completed
                            >importing the font-awesome library : Completed
                            >Adding Jumbotron from the bootstrap : Completed
+                           >Using images from unsplash for background images : Completed
                            >DOM Breakpoints and DOM Manipulations around the index.html ( after interaction setup with jQuery)
                            >Finalizing the thing with the Last Browser Checkout for Frontend ( after Breakpoints setup)
 ---------------------------------------------------------------------------------------------------------------------------------------------
