@@ -41,3 +41,11 @@ font-family: 'Inconsolata', monospace;
 .dropdown-divider{
 	background-color: inherit;
 }
+#jumbotron-first{
+	background: url("one.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	font-weight: bold;
+}
